@@ -1,0 +1,12 @@
+[submodule "deps/ur_description"]
+	path = deps/ur_description
+	url = https://github.com/UniversalRobots/Universal_Robots_ROS2_Description.git
+	branch = humble
+[submodule "deps/ur_ros2_driver"]
+	path = deps/ur_ros2_driver
+	url = https://github.com/UniversalRobots/Universal_Robots_ROS2_Driver.git
+	branch = humble
+[submodule "deps/ur_simulation_gz"]
+	path = deps/ur_simulation_gz
+	url = https://github.com/UniversalRobots/Universal_Robots_ROS2_GZ_Simulation.git
+	branch = humble
